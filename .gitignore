@@ -1,0 +1,6 @@
+test_maze
+vgcore.*
+*.a
+*.o
+.vscode
+*.txt
